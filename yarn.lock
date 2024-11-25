@@ -17726,9 +17726,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-builder-bob@npm:^0.30.0":
-  version: 0.30.0
-  resolution: "react-native-builder-bob@npm:0.30.0"
+"react-native-builder-bob@npm:^0.33.1":
+  version: 0.33.1
+  resolution: "react-native-builder-bob@npm:0.33.1"
   dependencies:
     "@babel/core": ^7.25.2
     "@babel/plugin-transform-strict-mode": ^7.24.7
@@ -17754,7 +17754,7 @@ __metadata:
     yargs: ^17.5.1
   bin:
     bob: bin/bob
-  checksum: fe4092547308d946756f0c41b1cde970781d00e22d8f3ae235a3d0e3ab8e7c8dfcb2e3b313af593986d07c672058b071f9f7397284b548139d4b9dc81f1b7a7e
+  checksum: b1e3b0bce3fb5339654a37cc09677d07f639a35f4393a7acc861cb3f9bc29964b65e0aa3846b8f78ad641ff4b751ac59f893aa2e2a57726760685e99f65fc73d
   languageName: node
   linkType: hard
 
@@ -19324,7 +19324,7 @@ __metadata:
     react: 18.2.0
     react-dom: 18.2.0
     react-native: 0.74.5
-    react-native-builder-bob: ^0.30.0
+    react-native-builder-bob: ^0.33.1
     react-native-gesture-handler: ~2.16.1
     react-native-reanimated: ~3.10.1
     react-native-safe-area-context: 4.10.5
@@ -19356,7 +19356,7 @@ __metadata:
     prettier: ^3.3.3
     react: 18.2.0
     react-native: 0.74.5
-    react-native-builder-bob: ^0.30.0
+    react-native-builder-bob: ^0.33.1
     react-native-gesture-handler: ~2.16.1
     react-native-reanimated: ~3.10.1
     react-native-safe-area-context: 4.10.5
